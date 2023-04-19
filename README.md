@@ -5,7 +5,7 @@ digits in even position is equal to the sum of digits in odd position.
 
 In my blog posts on Coding Joy, I have mentioned two techniques to check whether the given number is alternate number or not.
 
-The deatils of the problem, the variables used and the dry run have been mentioned in the posts.
+The details of the problem, the variables used and the dry run have been mentioned in the posts.
 
 Post in C:
 https://codingjoy.netlify.app/alternatenumberclanguage.html
