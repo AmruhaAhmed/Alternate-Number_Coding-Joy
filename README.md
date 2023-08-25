@@ -2,6 +2,7 @@
 
 An alternate number is the number in which the sum of the digits in alternate positions is equal. It can also be defined as the number in which the sum of
 digits in even position is equal to the sum of digits in odd position.
+![image](https://github.com/AmruhaAhmed/Alternate-Number_Coding-Joy/assets/98407069/e9e68a3b-e0c1-45e1-bb8e-501944f4f184)
 
 In my blog posts on Coding Joy, I have mentioned two techniques to check whether the given number is alternate number or not.
 
